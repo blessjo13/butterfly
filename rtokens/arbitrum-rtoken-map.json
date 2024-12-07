@@ -1,16 +1,16 @@
 {
-  "0x0BBF664D46becc28593368c97236FAa0fb397595": {
-    "address": "0x0BBF664D46becc28593368c97236FAa0fb397595",
-    "name": "KNOX Dollar",
-    "symbol": "KNOX",
-    "logo": "knox.svg",
+  "0x64e65FAe2D5316e9e8c8f1E96a5d048Ac69e9cC9": {
+    "address": "0x64e65FAe2D5316e9e8c8f1E96a5d048Ac69e9cC9",
+    "name": "BUTTERFLY Dollar",
+    "symbol": "BFLY",
+    "logo": "butterfly.svg",
     "decimals": 18,
     "about": "Where value anchors",
     "support": {
-      "email": "knoxusd@gmail.com"
+      "email": "guy_yves@hotmail.com"
     },
     "social": {
-      "twitter": "https://twitter.com/KNOX_Dollar"
+      "twitter": "https://twitter.com/butterfly_Dollar"
     }
   }
 }
